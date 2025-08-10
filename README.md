@@ -6,7 +6,7 @@ A simple yet impressive 3D rotating cube rendered in the Windows console using A
 
 The cube features colored faces for better contrast, improved occlusion to prevent blending at edges/corners, and interactive controls for scale and rotation speed.
 
-<img src="demo.gif" alt="Demo GIF" width="600" height="400">
+<img src="https://imgur.com/a/500RhbJ" alt="Demo GIF" width="600" height="400">
 
 
 # Compilation
